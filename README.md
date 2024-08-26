@@ -5,8 +5,12 @@ It also shows memory usage, CPU usage, and temperature of your system.
 
 ## Screenshots
 Here are some screenshots of the script:
-![Screenshot](screenshots/main.png)
-
+<div>
+    <center>
+        <img src="screenshots/main.png" alt="Indian Universities" style="float: left; margin-right: 10px;">
+    </center>
+</div>
+<br>
 
 Screenshots of the script in src folder:
 <div>
@@ -14,6 +18,7 @@ Screenshots of the script in src folder:
     <img style="width: 20%" src="screenshots/2.png" alt="Indian Universities" style="float: left; margin-left: 10px;">
     <img style="width: 20%" src="screenshots/3.png" alt="Indian Universities" style="float: left; margin-left: 10px;">
 </div>
+<br>
 
 ## Installation
 To install this script, you need to have python3 installed on your system. You can install it by running the following command:
